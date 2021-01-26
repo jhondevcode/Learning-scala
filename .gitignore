@@ -4,3 +4,5 @@
 # Ignore IDEA files
 .idea
 
+# Ignore bytecode files
+*.class
